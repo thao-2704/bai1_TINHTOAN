@@ -10,7 +10,7 @@
         android:id="@+id/textView"
         android:layout_width="214dp"
         android:layout_height="47dp"
-        android:text="PHÉP TOÁN"
+        android:text="TÍNH TOÁN"
         android:textAlignment="center"
         android:textColor="#931212"
         android:textSize="24sp"
